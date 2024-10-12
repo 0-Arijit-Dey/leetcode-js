@@ -1,0 +1,2 @@
+# leetcode-js
+solving leetcode
