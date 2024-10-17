@@ -5,7 +5,7 @@ const plusI = (n, i) => n + i;
 const constant = () => 42;
 
 var map = function (arr, fn) {
-  let modefiedArr = [];
+  const modefiedArr = [];
   arr.forEach((element, i) => {
     modefiedArr.push(fn(element, i));
   });
